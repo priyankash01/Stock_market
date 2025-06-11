@@ -6,4 +6,4 @@ plotly
 scikit-learn
 tensorflow
 keras
-prophet
+fbprophet
